@@ -3,18 +3,18 @@ owner: Peasisoft # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: Native Upsell
-    url: https://peasisoft.com/ult-upsell/login
-    maxResponseTime: 5000
+  - name: Native Upsell (Offer)
+    url: https://peasisoft.com/api/popup-content?id=149&store_hash=c24b76wbe2&position=1&cartValue=0&qtyCart=0&is_has_coupons_in_cart=0&is_user_logged_in=0&user_token=&currency_code=USD
+    maxResponseTime: 8000
   - name: Native Recommender
     url: https://recommender.peasisoft.com/ult-upsell/login
-    maxResponseTime: 5000
+    maxResponseTime: 4000
   - name: Native Cart Drawer
     url: https://nativecart.peasisoft.com/ult-upsell/login
-    maxResponseTime: 5000
+    maxResponseTime: 4000
   - name: Peasi Landing Page
     url: https://welcome.peasisoft.com/
-    maxResponseTime: 5000
+    maxResponseTime: 4000
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
