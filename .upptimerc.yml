@@ -5,10 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Native Upsell (Offer)
     url: https://peasisoft.com/api/popup-content?id=149&store_hash=c24b76wbe2&position=1&cartValue=0&qtyCart=0&is_has_coupons_in_cart=0&is_user_logged_in=0&user_token=&currency_code=USD
-    maxResponseTime: 8000
-  - name: Native Recommender
-    url: https://recommender.peasisoft.com/ult-upsell/login
-    maxResponseTime: 4000
+    maxResponseTime: 6000
+  - name: Native Recommender (Offer)
+    url: https://recommender.peasisoft.com/api/popup-content?id=165&store_hash=c24b76wbe2&position=1&currency_code=USD&screen_width=1373&is_user_logged_in=0&user_token=&type=3
+    maxResponseTime: 6000
   - name: Native Cart Drawer
     url: https://nativecart.peasisoft.com/ult-upsell/login
     maxResponseTime: 4000
