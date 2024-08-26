@@ -22,19 +22,19 @@
     "url": "https://recommender.peasisoft.com/api/popup-content?id=165&store_hash=c24b76wbe2&position=1&currency_code=USD&screen_width=1373&is_user_logged_in=0&user_token=&type=3",
     "icon": "https://icons.duckduckgo.com/ip3/recommender.peasisoft.com.ico",
     "slug": "native-recommender-offer",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 8082,
-    "timeWeek": 2576,
-    "timeMonth": 1215,
-    "timeYear": 710,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 708,
+    "timeDay": 5572,
+    "timeWeek": 2351,
+    "timeMonth": 1195,
+    "timeYear": 708,
     "dailyMinutesDown": {
-      "2024-08-26": 0
+      "2024-08-26": 30
     }
   },
   {
