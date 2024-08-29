@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 524,
-    "timeWeek": 812,
-    "timeMonth": 809,
-    "timeYear": 920,
+    "time": 913,
+    "timeDay": 720,
+    "timeWeek": 670,
+    "timeMonth": 784,
+    "timeYear": 913,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "native-recommender-offer",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 708,
-    "timeDay": 5572,
-    "timeWeek": 2351,
-    "timeMonth": 1195,
-    "timeYear": 708,
+    "time": 703,
+    "timeDay": 497,
+    "timeWeek": 2309,
+    "timeMonth": 1171,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2024-08-26": 30
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 108,
-    "timeWeek": 175,
-    "timeMonth": 173,
-    "timeYear": 169,
+    "time": 168,
+    "timeDay": 106,
+    "timeWeek": 149,
+    "timeMonth": 163,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 381,
-    "timeWeek": 450,
-    "timeMonth": 443,
-    "timeYear": 419,
+    "time": 418,
+    "timeDay": 338,
+    "timeWeek": 398,
+    "timeMonth": 435,
+    "timeYear": 418,
     "dailyMinutesDown": {}
   }
 ]
