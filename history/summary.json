@@ -61,19 +61,19 @@
     "url": "https://welcome.peasisoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/welcome.peasisoft.com.ico",
     "slug": "peasi-landing-page",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 503,
-    "timeDay": 6941,
-    "timeWeek": 2115,
-    "timeMonth": 922,
+    "timeDay": 4791,
+    "timeWeek": 1935,
+    "timeMonth": 909,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2024-10-13": 0
+      "2024-10-13": 11
     }
   }
 ]
