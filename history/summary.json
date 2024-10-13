@@ -22,19 +22,19 @@
     "url": "https://recommender.peasisoft.com/api/popup-content?id=165&store_hash=c24b76wbe2&position=1&currency_code=USD&screen_width=1373&is_user_logged_in=0&user_token=&type=3",
     "icon": "https://icons.duckduckgo.com/ip3/recommender.peasisoft.com.ico",
     "slug": "native-recommender-offer",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 680,
-    "timeDay": 435,
-    "timeWeek": 670,
-    "timeMonth": 640,
-    "timeYear": 680,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 714,
+    "timeDay": 2192,
+    "timeWeek": 1230,
+    "timeMonth": 798,
+    "timeYear": 714,
     "dailyMinutesDown": {
-      "2024-10-13": 0,
+      "2024-10-13": 19,
       "2024-08-26": 30
     }
   },
@@ -61,17 +61,19 @@
     "url": "https://welcome.peasisoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/welcome.peasisoft.com.ico",
     "slug": "peasi-landing-page",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 546,
-    "timeWeek": 512,
-    "timeMonth": 509,
-    "timeYear": 433,
-    "dailyMinutesDown": {}
+    "time": 503,
+    "timeDay": 6941,
+    "timeWeek": 2115,
+    "timeMonth": 922,
+    "timeYear": 503,
+    "dailyMinutesDown": {
+      "2024-10-13": 0
+    }
   }
 ]
