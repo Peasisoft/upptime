@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 633,
-    "timeWeek": 583,
-    "timeMonth": 688,
-    "timeYear": 824,
+    "time": 822,
+    "timeDay": 488,
+    "timeWeek": 556,
+    "timeMonth": 683,
+    "timeYear": 822,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 685,
-    "timeDay": 882,
-    "timeWeek": 522,
-    "timeMonth": 521,
-    "timeYear": 685,
+    "time": 684,
+    "timeDay": 529,
+    "timeWeek": 535,
+    "timeMonth": 526,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2024-10-13": 19,
       "2024-08-26": 30
@@ -43,18 +43,20 @@
     "url": "https://nativecart.peasisoft.com/ult-upsell/login",
     "icon": "https://icons.duckduckgo.com/ip3/nativecart.peasisoft.com.ico",
     "slug": "native-cart-drawer",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 223,
-    "timeWeek": 138,
-    "timeMonth": 158,
-    "timeYear": 168,
-    "dailyMinutesDown": {}
+    "time": 190,
+    "timeDay": 2694,
+    "timeWeek": 779,
+    "timeMonth": 318,
+    "timeYear": 190,
+    "dailyMinutesDown": {
+      "2024-11-25": 0
+    }
   },
   {
     "name": "Peasi Landing Page",
@@ -68,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 513,
-    "timeDay": 742,
-    "timeWeek": 509,
-    "timeMonth": 549,
+    "timeDay": 435,
+    "timeWeek": 491,
+    "timeMonth": 550,
     "timeYear": 513,
     "dailyMinutesDown": {}
   }
