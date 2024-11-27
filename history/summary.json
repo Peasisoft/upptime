@@ -43,19 +43,19 @@
     "url": "https://nativecart.peasisoft.com/ult-upsell/login",
     "icon": "https://icons.duckduckgo.com/ip3/nativecart.peasisoft.com.ico",
     "slug": "native-cart-drawer",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 6260,
-    "timeWeek": 1904,
-    "timeMonth": 669,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 243,
+    "timeDay": 4208,
+    "timeWeek": 1741,
+    "timeMonth": 653,
+    "timeYear": 243,
     "dailyMinutesDown": {
-      "2024-11-27": 0
+      "2024-11-27": 23
     }
   },
   {
