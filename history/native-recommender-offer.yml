@@ -1,7 +1,7 @@
 url: https://recommender.peasisoft.com/api/popup-content?id=165&store_hash=c24b76wbe2&position=1&currency_code=USD&screen_width=1373&is_user_logged_in=0&user_token=&type=3
-status: degraded
+status: up
 code: 200
-responseTime: 11856
-lastUpdated: 2025-01-23T11:58:36.354Z
+responseTime: 879
+lastUpdated: 2025-01-23T12:46:04.089Z
 startTime: 2024-05-24T10:16:00.825Z
 generator: Upptime <https://github.com/upptime/upptime>
