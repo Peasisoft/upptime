@@ -4,18 +4,20 @@
     "url": "https://peasisoft.com/api/popup-content?id=149&store_hash=c24b76wbe2&position=1&cartValue=0&qtyCart=0&is_has_coupons_in_cart=0&is_user_logged_in=0&user_token=&currency_code=USD",
     "icon": "https://icons.duckduckgo.com/ip3/peasisoft.com.ico",
     "slug": "native-upsell-offer",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 741,
-    "timeWeek": 643,
-    "timeMonth": 652,
-    "timeYear": 777,
-    "dailyMinutesDown": {}
+    "time": 812,
+    "timeDay": 5381,
+    "timeWeek": 1815,
+    "timeMonth": 928,
+    "timeYear": 812,
+    "dailyMinutesDown": {
+      "2025-02-01": 2
+    }
   },
   {
     "name": "Native Recommender (Offer)",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/recommender.peasisoft.com.ico",
     "slug": "native-recommender-offer",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "84.39%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.76%",
+    "uptimeDay": "82.00%",
+    "uptimeWeek": "95.85%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "99.76%",
     "time": 1488,
     "timeDay": 9267,
     "timeWeek": 7267,
     "timeMonth": 4082,
     "timeYear": 1488,
     "dailyMinutesDown": {
-      "2025-02-01": 225,
+      "2025-02-01": 259,
       "2025-01-31": 159,
       "2025-01-23": 171,
       "2025-01-16": 122,
@@ -52,9 +54,9 @@
     "slug": "native-cart-drawer",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 291,
     "timeDay": 283,
@@ -62,7 +64,7 @@
     "timeMonth": 668,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-02-01": 23,
+      "2025-02-01": 57,
       "2025-01-31": 21,
       "2024-11-27": 23
     }
@@ -74,17 +76,15 @@
     "slug": "peasi-landing-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 656,
     "timeDay": 8447,
     "timeWeek": 3115,
     "timeMonth": 1796,
     "timeYear": 656,
-    "dailyMinutesDown": {
-      "2025-02-01": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
