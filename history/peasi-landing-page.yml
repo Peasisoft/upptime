@@ -1,7 +1,7 @@
 url: https://welcome.peasisoft.com/
-status: up
+status: degraded
 code: 200
-responseTime: 303
-lastUpdated: 2025-02-01T23:11:59.713Z
+responseTime: 20450
+lastUpdated: 2025-02-01T23:40:49.219Z
 startTime: 2024-04-21T14:30:59.656Z
 generator: Upptime <https://github.com/upptime/upptime>
