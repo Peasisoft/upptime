@@ -4,19 +4,19 @@
     "url": "https://peasisoft.com/api/popup-content?id=149&store_hash=c24b76wbe2&position=1&cartValue=0&qtyCart=0&is_has_coupons_in_cart=0&is_user_logged_in=0&user_token=&currency_code=USD",
     "icon": "https://icons.duckduckgo.com/ip3/peasisoft.com.ico",
     "slug": "native-upsell-offer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 426,
-    "timeWeek": 497,
-    "timeMonth": 603,
-    "timeYear": 790,
+    "time": 789,
+    "timeDay": 440,
+    "timeWeek": 491,
+    "timeMonth": 598,
+    "timeYear": 789,
     "dailyMinutesDown": {
-      "2025-03-10": 0
+      "2025-03-10": 12
     }
   },
   {
