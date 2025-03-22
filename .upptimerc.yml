@@ -18,7 +18,7 @@ sites:
   - name: Native Upsell BC App
     url: https://www.bigcommerce.com/apps/peasi-native-upsell/
     maxResponseTime: 5000
-    __dangerous__body_down_if_text_missing: "/why native upsell?/i"
+    __dangerous__body_down_if_text_missing: "Why Native Upsell"
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
