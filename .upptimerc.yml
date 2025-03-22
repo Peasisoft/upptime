@@ -30,7 +30,9 @@ sites:
   - name: BC Apps Search
     url: https://www.bigcommerce.com/api/algolia/marketplace/apps/apps-feed/?env=production&searchQuery=Native&tierFilter=all&ratingFilter=all&appTypeFilter=all&costPlansFilter=all&compatibleWithFilter=all
     maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: "Native Upsell"
     __dangerous__body_down_if_text_missing: "Native Recommender"
+    __dangerous__body_down_if_text_missing: "Native Cart Drawer"
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
