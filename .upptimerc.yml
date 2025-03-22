@@ -19,6 +19,14 @@ sites:
     url: https://www.bigcommerce.com/apps/peasi-native-upsell/
     maxResponseTime: 5000
     __dangerous__body_down_if_text_missing: "Why Native Upsell"
+  - name: Native Recommender BC App
+    url: https://www.bigcommerce.com/apps/native-recommender-by-peasisoft/
+    maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: "Why Native Recommender"
+  - name: Native Cart Drawer BC App
+    url: https://www.bigcommerce.com/apps/native-cart-drawer/
+    maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: "Discount progress bar"
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
