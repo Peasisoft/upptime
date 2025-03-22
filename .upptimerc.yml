@@ -15,6 +15,10 @@ sites:
   - name: Peasi Landing Page
     url: https://welcome.peasisoft.com/
     maxResponseTime: 4000
+  - name: Native Upsell BC App
+    url: https://www.bigcommerce.com/apps/peasi-native-upsell/
+    maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: "GET THIS APP"
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
