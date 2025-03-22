@@ -27,6 +27,10 @@ sites:
     url: https://www.bigcommerce.com/apps/native-cart-drawer/
     maxResponseTime: 5000
     __dangerous__body_down_if_text_missing: "Discount progress bar"
+  - name: BC Apps Search
+    url: https://www.bigcommerce.com/api/algolia/marketplace/apps/apps-feed/?env=production&searchQuery=Native&tierFilter=all&ratingFilter=all&appTypeFilter=all&costPlansFilter=all&compatibleWithFilter=all
+    maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: "Native Recommender\nNative Upsell\nNative Cart Drawer"
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
