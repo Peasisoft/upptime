@@ -26,7 +26,7 @@ sites:
   - name: Native Cart Drawer BC App
     url: https://www.bigcommerce.com/apps/native-cart-drawer/
     maxResponseTime: 5000
-    __dangerous__body_down_if_text_missing: " Native Cart Drawer BC App"
+    __dangerous__body_down_if_text_missing: "Native Cart Drawer by Peasisoft"
   - name: BC Apps Search Native Upsell
     url: https://www.bigcommerce.com/api/algolia/marketplace/apps/apps-feed/?env=production&searchQuery=Native&tierFilter=all&ratingFilter=all&appTypeFilter=all&costPlansFilter=all&compatibleWithFilter=all
     maxResponseTime: 5000
