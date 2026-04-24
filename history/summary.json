@@ -60,18 +60,20 @@
     "url": "https://welcome.peasisoft.com/",
     "icon": "https://icons.duckduckgo.com/ip3/welcome.peasisoft.com.ico",
     "slug": "peasi-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 824,
+    "time": 825,
     "timeDay": 305,
     "timeWeek": 331,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-24": 0
+    }
   },
   {
     "name": "Native Upsell BC App",
