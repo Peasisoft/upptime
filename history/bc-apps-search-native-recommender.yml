@@ -1,7 +1,7 @@
 url: https://www.bigcommerce.com/api/algolia/marketplace/apps/apps-feed/?env=production&searchQuery=Native&tierFilter=all&ratingFilter=all&appTypeFilter=all&costPlansFilter=all&compatibleWithFilter=all
 status: up
 code: 200
-responseTime: 147
-lastUpdated: 2026-04-28T23:56:17.591Z
+responseTime: 94
+lastUpdated: 2026-04-29T23:56:10.716Z
 startTime: 2026-03-26T04:22:54.597Z
 generator: Upptime <https://github.com/upptime/upptime>
