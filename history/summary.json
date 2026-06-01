@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 732,
-    "timeDay": 676,
-    "timeWeek": 845,
-    "timeMonth": 785,
-    "timeYear": 790,
+    "timeDay": 605,
+    "timeWeek": 721,
+    "timeMonth": 777,
+    "timeYear": 788,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2310,
-    "timeDay": 628,
-    "timeWeek": 497,
-    "timeMonth": 499,
-    "timeYear": 519,
+    "time": 2309,
+    "timeDay": 348,
+    "timeWeek": 491,
+    "timeMonth": 494,
+    "timeYear": 517,
     "dailyMinutesDown": {}
   },
   {
@@ -40,20 +40,21 @@
     "url": "https://nativecart.peasisoft.com/ult-upsell/login",
     "icon": "https://icons.duckduckgo.com/ip3/nativecart.peasisoft.com.ico",
     "slug": "native-cart-drawer",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1373,
-    "timeDay": 3855,
-    "timeWeek": 1071,
-    "timeMonth": 385,
-    "timeYear": 259,
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 1372,
+    "timeDay": 3835,
+    "timeWeek": 1057,
+    "timeMonth": 381,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2026-04-20": 60,
-      "2026-05-31": 0
+      "2026-06-01": 8,
+      "2026-05-31": 15
     }
   },
   {
@@ -68,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 795,
-    "timeDay": 446,
-    "timeWeek": 358,
-    "timeMonth": 379,
+    "timeDay": 359,
+    "timeWeek": 365,
+    "timeMonth": 381,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2026-04-24": 298
@@ -87,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 331,
-    "timeWeek": 608,
-    "timeMonth": 422,
-    "timeYear": 412,
+    "time": 401,
+    "timeDay": 548,
+    "timeWeek": 537,
+    "timeMonth": 429,
+    "timeYear": 414,
     "dailyMinutesDown": {}
   },
   {
@@ -105,10 +106,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 255,
-    "timeWeek": 383,
-    "timeMonth": 307,
+    "time": 293,
+    "timeDay": 258,
+    "timeWeek": 384,
+    "timeMonth": 311,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -124,10 +125,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 271,
-    "timeDay": 347,
-    "timeWeek": 416,
-    "timeMonth": 311,
-    "timeYear": 277,
+    "timeDay": 239,
+    "timeWeek": 424,
+    "timeMonth": 315,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2026-03-26": 52
     }
@@ -144,8 +145,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 169,
-    "timeWeek": 244,
+    "timeDay": 168,
+    "timeWeek": 238,
     "timeMonth": 195,
     "timeYear": 180,
     "dailyMinutesDown": {}
@@ -162,8 +163,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 172,
-    "timeWeek": 184,
+    "timeDay": 119,
+    "timeWeek": 183,
     "timeMonth": 167,
     "timeYear": 147,
     "dailyMinutesDown": {}
@@ -179,11 +180,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 164,
-    "timeWeek": 147,
-    "timeMonth": 160,
-    "timeYear": 144,
+    "time": 145,
+    "timeDay": 206,
+    "timeWeek": 159,
+    "timeMonth": 163,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   }
 ]
